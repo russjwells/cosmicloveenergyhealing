@@ -10,7 +10,15 @@ class App extends Component {
           <h2>Cosmic Love Energy Healing</h2>
         </div>
         <p className="App-intro">
-          Its like reiki, only stronger :)
+          Welcome to Cosmic Love Energy Healing!
+          <br /> <br />
+          My name is Russ. I am an energy worker and intuitive healer, self taught. I heal with energy, crystals, herbs, plants, essential oils, sound, shamanic journeying, and Love.
+        </p>
+        <p>
+          I am taking new clients. If you are interested in healing together please send me a message at 513 - 332 - 5252.
+        </p>
+        <p>
+          Healing is $60/Hour or $1/Minute for one session. Prepaid packages of sessions are available at a discount.
         </p>
       </div>
     );
