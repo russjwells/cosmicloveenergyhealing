@@ -1,21 +1,36 @@
 .App {
   text-align: center;
+  background-color: #233234;
 }
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
 }
-
+.body-copy{
+  color: #f29538;
+}
 .App-header {
-  background-color: #222;
-  height: 150px;
+  background-color: #233234;
+  padding: 20px;
+  color: #e55051;
+}
+.bodylink a:visited {
+  color: black;
+}
+.headerlink a:visited {
+  color: white;
+}
+.App-footer {
+  background-color: #233234;
   padding: 20px;
   color: white;
 }
 
 .App-intro {
   font-size: large;
+  font-weight: bold;
+  color: #d66654;
 }
 
 @keyframes App-logo-spin {
