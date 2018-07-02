@@ -13,6 +13,8 @@
 }
 .body-copy{
   color: #f29538;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 .App-header {
   background-color: #233234;
@@ -49,6 +51,8 @@ a:hover{
   font-size: large;
   font-weight: bold;
   color: #d66654;
+  margin-left: 40px;
+  margin-right: 40px;
 }
 
 @keyframes App-logo-spin {
