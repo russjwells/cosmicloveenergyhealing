@@ -15,7 +15,7 @@ class App extends Component {
           Hello. I am Russell Wells and I am here to help. 
         </p>
         <p className="body-copy">
-          I am a self taught energy worker and intuitive healer.
+          I am a self-taught energy worker and intuitive healer.
         </p>
         <p className="body-copy">
         I am also initiated into the healing art of Reiki in the Usui lineage.
