@@ -51,12 +51,6 @@ class App extends Component {
         <p className="body-copy">
           I am here to serve the light inside of you.
         </p>
-        <p className="body-copy">
-           &nbsp;
-        </p>
-        <p className="body-copy">
-          Russell
-        </p>
         <div className="App-footer">
           <h2><a href="http://www.calendly.com/cosmicloveenergyhealing" className="headerlink">click here to book me</a></h2>
         </div>
