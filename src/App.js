@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import YouTube from 'react-youtube';
 import starbg from './bluegreenstarfield.png';
 import cosmiclove from './cosmiclove.png';
 import './App.css';
@@ -51,6 +52,9 @@ class App extends Component {
         <p className="body-copy">
           I am here to serve the light inside of you.
         </p>
+        <YouTube
+          videoId="GUdih3P4TJA"
+          />
         <div className="App-footer">
           <h2><a href="http://www.calendly.com/cosmicloveenergyhealing" className="headerlink">click here to book me</a></h2>
         </div>
