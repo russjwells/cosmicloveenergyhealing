@@ -34,6 +34,9 @@ class App extends Component {
           Lay on the table and relax as your energetic system is supported and restored.
         </p>
         <p className="body-copy">
+          Uncover and discover inner solutions to your pains and problems.
+        </p>
+        <p className="body-copy">
           I am based in Ocean Beach, San Diego, California. 
         </p>
         <p className="body-copy">
