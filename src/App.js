@@ -13,19 +13,22 @@ class App extends Component {
           <h2>Cosmic Love Energy Healing</h2>
         </div>
         <p className="App-intro">
-          Hello. I am Russell Wells and I am here to help. 
+          Hello, I am Russell Wells and I am here to help you evolve. 
         </p>
         <p className="body-copy">
-          I am a self-taught energy worker and intuitive healer.
+          I am an energy worker and intuitive healer.
         </p>
         <p className="body-copy">
-        I am also initiated into the healing art of Reiki in the Usui lineage.
+        I am initiated into the healing art of Reiki in the Usui lineage.
+        </p>
+        <p className="body-copy">
+        I practice the magic of the Western Esoteric Tradition and others.
         </p>
         <p className="body-copy">
           I am passionate about helping others stand in their fullest expression.
         </p>
         <p className="body-copy">
-           I am offering 30, 60, 90, and 120 minute energy work sessions.
+           I am now offering energy work sessions.
         </p>
         <p className="body-copy">
           Lay on the table and relax as your energetic system is supported and restored.
@@ -34,7 +37,7 @@ class App extends Component {
           I am based in Ocean Beach, San Diego, California. 
         </p>
         <p className="body-copy">
-        I have spaces open for a few weekly clients.
+        I have spaces open for weekly clients.
         </p>
         <p className="body-copy">
           New to energy work? 
@@ -56,7 +59,7 @@ class App extends Component {
           videoId="GUdih3P4TJA"
           />
         <div className="App-footer">
-          <h2><a href="http://www.calendly.com/cosmicloveenergyhealing" className="headerlink">click here to book me</a></h2>
+          <h2><a href="http://www.calendly.com/cosmicloveenergyhealing" className="headerlink">click here to book a consultation</a></h2>
         </div>
       </div>
     );
